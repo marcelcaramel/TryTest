@@ -10,7 +10,6 @@ public class Trying_Super_Hard_Right_Na : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        Debug.Log("Ta mère lollll");
-
+	
 	}
 }
