@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Trying_Super_Hard_Right_Na : MonoBehaviour {
+public class NewScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
@@ -10,6 +10,6 @@ public class Trying_Super_Hard_Right_Na : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        Debug.Log("why is no work");
+	
 	}
 }
