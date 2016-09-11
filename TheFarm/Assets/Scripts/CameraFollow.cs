@@ -12,6 +12,7 @@ public class CameraFollow : MonoBehaviour {
         theCamera = GameObject.FindGameObjectWithTag("MainCamera");
         camColLeft = GameObject.FindGameObjectWithTag("camColLeft");
         camColRight = GameObject.FindGameObjectWithTag("camColRight");
+        //a Change
     }
 	
 	// Update is called once per frame
