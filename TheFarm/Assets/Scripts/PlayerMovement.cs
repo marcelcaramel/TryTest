@@ -6,7 +6,6 @@ public class PlayerMovement : MonoBehaviour {
     float horizMovement;
     float vertMovement;
 
-    Animator theAnimator;
 
     // Use this for initialization
     void Start () {
