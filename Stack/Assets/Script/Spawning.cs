@@ -3,6 +3,14 @@ using System.Collections;
 
 public class Spawning : MonoBehaviour {
 
+	public GameObject miniFood;
+	public GameObject miniMoney;
+	public GameObject miniTrees;
+	public GameObject miniArt;
+	public GameObject miniSex;
+
+
+
 	// Use this for initialization
 	void Start () {
 	
@@ -15,10 +23,9 @@ public class Spawning : MonoBehaviour {
 
 	void OnTriggerEnter(Collider theCol)
 	{
-		Debug.Log ("crissostie44");
 		if (this.tag == "Food")
 		{
-			Debug.Log ("crissostie");
+			
 		}
 		if (this.tag == "Money")
 		{
